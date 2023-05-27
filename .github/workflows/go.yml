@@ -25,4 +25,4 @@ jobs:
     #  run: go build -v ./...
 
     - name: Test
-      run: cd greetings && go test -v ./greetings
+      run: cd greetings && go test
